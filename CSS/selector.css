@@ -1,0 +1,24 @@
+/* #id {
+  color: black;
+  background-color: white;
+}
+h5,
+h6,
+p {
+  color: yellow;
+  background-color: black;
+}
+body {
+  background-color: black;
+}
+.she {
+  background-color: aqua;
+} */
+/* .lia {
+  color: black;
+  border: 2px solid black;
+} */
+div h4 {
+  color: yellow;
+  background-color: black;
+}
